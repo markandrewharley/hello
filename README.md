@@ -1,3 +1,3 @@
 # hello
-Web programming with Python and Javascript
-An edX online course
+Web programming with Python and Javascript.
+An edX online course.
